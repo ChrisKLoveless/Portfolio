@@ -20,9 +20,10 @@ li {
 }
 
 img {
-  width: 25%;
-  height: 25%;
+  width: 50%;
+  height: 50%;
   float: right;
+  border: 0.25cm solid rgb(44, 49, 25);
 }
 
 .jumbotron {

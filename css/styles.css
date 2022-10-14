@@ -19,6 +19,12 @@ li {
   color: antiquewhite;
 }
 
+img {
+  width: 25%;
+  height: 25%;
+  float: right;
+}
+
 .jumbotron {
   background-color: rgb(44, 49, 25);
 }

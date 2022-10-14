@@ -21,7 +21,7 @@ li {
 
 img {
   width: 50%;
-  height: 50%;
+  height: 900px;
   float: right;
   border: 0.25cm solid rgb(44, 49, 25);
 }
@@ -29,8 +29,13 @@ img {
 .jumbotron {
   background-color: rgb(44, 49, 25);
   text-align: center;
+  padding: 1cm;
 }
 
 .highlight {
   color:  rgb(172, 194, 92);
+}
+
+.nav-link {
+  color: rgb(44, 49, 25);
 }

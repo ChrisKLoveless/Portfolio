@@ -5,7 +5,7 @@
 
 #### A webpage to display information about my personal and professional life
 
-[Click Here](chriskloveless.github.io/Portfolio) to checkout the project!
+[Click Here](https://chriskloveless.github.io/Portfolio/) to checkout the project!
 
 ## Technologies Used
 

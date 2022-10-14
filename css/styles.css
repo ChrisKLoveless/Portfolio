@@ -27,8 +27,9 @@ img {
 
 .jumbotron {
   background-color: rgb(44, 49, 25);
+  text-align: center;
 }
 
 .highlight {
-  color:  rgb(44, 49, 25);;
+  color:  rgb(172, 194, 92);
 }

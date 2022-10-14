@@ -5,6 +5,8 @@
 
 #### A webpage to display information about my personal and professional life
 
+[Click Here](chriskloveless.github.io/Portfolio)
+
 ## Technologies Used
 
 * _HTML_

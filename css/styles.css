@@ -30,6 +30,10 @@ li {
   box-sizing: border-box;
 }
 
+.about h2 {
+  text-align: center;
+}
+
 .projects {
   border: 2px solid rgb(44, 49, 25);
   margin: auto;
@@ -41,6 +45,10 @@ li {
   box-sizing: border-box;
 }
 
+.projects h2 {
+  text-align: center;
+}
+
 .credentials {
   border: 2px solid rgb(44, 49, 25);
   margin: auto;
@@ -50,6 +58,10 @@ li {
   background-color: rgb(19, 19, 18);
   display: block;
   box-sizing: border-box;
+}
+
+.credentials h2 {
+  text-align: center;
 }
 
 .interests {
@@ -64,6 +76,10 @@ li {
   box-sizing: border-box;
 }
 
+.interests h2 {
+  text-align: center;
+}
+
 .career {
   border: 2px solid rgb(44, 49, 25);
   margin: auto;
@@ -73,6 +89,10 @@ li {
   background-color: rgb(19, 19, 18);
   display: block;
   box-sizing: border-box;
+}
+
+.career h2 {
+  text-align: center;
 }
 
 img {
@@ -94,8 +114,4 @@ img {
 
 .nav-link {
   color: rgb(44, 49, 25);
-}
-
-.nav-item {
-  
 }

@@ -19,6 +19,62 @@ li {
   color: antiquewhite;
 }
 
+.about {
+  border: 2px solid rgb(44, 49, 25);
+  margin: auto;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(19, 19, 18);
+  display: block;
+  box-sizing: border-box;
+}
+
+.projects {
+  border: 2px solid rgb(44, 49, 25);
+  margin: auto;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(19, 19, 18);
+  display: block;
+  box-sizing: border-box;
+}
+
+.credentials {
+  border: 2px solid rgb(44, 49, 25);
+  margin: auto;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(19, 19, 18);
+  display: block;
+  box-sizing: border-box;
+}
+
+.interests {
+  border: 2px solid rgb(44, 49, 25);
+  width: 50%;
+  margin: auto;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(19, 19, 18);
+  display: block;
+  box-sizing: border-box;
+}
+
+.career {
+  border: 2px solid rgb(44, 49, 25);
+  margin: auto;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(19, 19, 18);
+  display: block;
+  box-sizing: border-box;
+}
+
 img {
   width: 50%;
   height: 900px;

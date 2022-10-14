@@ -19,9 +19,11 @@ This webpage serves as a landing page for my programming portfolio. It has an ab
 
 ## Setup/Installation Requirements
 
-* HTML
-* CSS
-* Bootstrap
+1. Access project through github repository
+2. Clone repository 
+3. Open index.html file in browser
+
+  (or click the link above technologies to view gh-page)
 
 ## Known Bugs
 

@@ -15,7 +15,7 @@
 
 ## Description
 
-This webpage serves as a landing page for my programming portfolio. It has an about me section and interests section to tell the viewer my background information. The webpage also contains some proffesional information to help inform potential employers.
+This webpage serves as a landing page for my programming portfolio. It has an about me section and interests section to tell the viewer my background information. The webpage also contains some professional information to help inform potential employers.
 
 ## Setup/Installation Requirements
 

@@ -3,6 +3,11 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+button {
+  font-family: Arial Black;
+  font-style: italic;
+}
+
 p {
   color: antiquewhite;
   
@@ -110,11 +115,16 @@ li {
   text-align: center;
 }
 
-img {
+img.avatar {
   width: 50%;
   height: 50%;
   float: right;
-  border: 0.25cm solid rgb(44, 49, 25);
+  border: 0.2cm solid rgb(44, 49, 25);
+}
+
+img {
+  margin-right: 10px;
+  margin-bottom: 50px;
 }
 
 .jumbotron {
